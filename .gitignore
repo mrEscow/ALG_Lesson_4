@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/x64/Release
+/ALG_Lesson_4.vcxproj.user
+/ALG_Lesson_4.vcxproj.filters
+/ALG_Lesson_4.vcxproj
+/ALG_Lesson_4.sln
+/.vs
